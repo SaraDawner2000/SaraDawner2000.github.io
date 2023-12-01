@@ -36,6 +36,7 @@ h1 {
   color: #fffffe;
 }
 .items {
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   gap: 30px;
@@ -58,4 +59,7 @@ li img {
 }
 a:hover {
   color: #abd1c6;
+}
+.social-icons a {
+  padding-left: 10px;
 }
